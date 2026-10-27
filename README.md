@@ -1,4 +1,4 @@
-# VeraProb - Forensic Contract Governance
+# Forensic Contract Governance (Named as Veraprob)
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 
